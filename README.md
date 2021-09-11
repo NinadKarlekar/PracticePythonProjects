@@ -1,8 +1,8 @@
 # PracticePythonProjects
 
-2021 
+ 
 
-Beginners python project for practice
+## Beginners python project for practice
 
 
 QR Codes with Python
