@@ -12,6 +12,12 @@
 
 ## Acronyms
 
+![Acronyms](https://user-images.githubusercontent.com/88243315/132951062-04250f6a-4841-4cb0-9b56-d746d67d7252.png)
+
+
+![image](https://user-images.githubusercontent.com/88243315/132951009-16ccedc9-b8cc-41d2-8c97-d86063bc41b3.png)
+
+
 
 
 ## QR Codes with Python
