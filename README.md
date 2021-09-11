@@ -1,5 +1,14 @@
 # Beginners python project for practice
 
+##INDEX
+
+Click on 3 dots to check individual project
+
+![image](https://user-images.githubusercontent.com/88243315/132951547-a98f9c58-bef0-4200-a553-ce611bb5c70b.png)
+
+
+
+
 
 ## Acronyms
 
