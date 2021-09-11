@@ -1,6 +1,13 @@
 # Beginners python project for practice
 
+ ## BMI calculator
  
+ ![BMI](https://user-images.githubusercontent.com/88243315/132950403-85ee61a2-b0a5-4809-8cf2-8b8f88a7c359.png)
+
+
+![image](https://user-images.githubusercontent.com/88243315/132950451-6193bf32-cda5-4dab-8aa3-c376db57edf1.png)
+
+
 
 
 ## Acronyms
