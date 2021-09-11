@@ -11,6 +11,11 @@ QR Codes with Python
 -" pip install pyqrcode "  
 After exicuting you will get to see an image saved in the directory you are working  
 
+![QRcode](https://user-images.githubusercontent.com/88243315/132949171-c256f6bb-ec8e-4101-bd9a-3461925d9641.png)
+
+![image](https://user-images.githubusercontent.com/88243315/132949197-aeee9979-4e64-4c86-b178-0bf49783541d.png)
+
+
 
   
 Python Program to Generate Password 
