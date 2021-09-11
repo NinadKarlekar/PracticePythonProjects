@@ -1,11 +1,8 @@
-# PracticePythonProjects
+# Beginners python project for practice
 
  
 
-## Beginners python project for practice
-
-
-**QR Codes with Python**
+## QR Codes with Python
 
 -cmd command
 -" pip install pyqrcode "  
