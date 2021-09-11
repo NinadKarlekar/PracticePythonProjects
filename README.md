@@ -2,6 +2,11 @@
 
  
 
+
+## Acronyms
+
+
+
 ## QR Codes with Python
 
 -cmd command
