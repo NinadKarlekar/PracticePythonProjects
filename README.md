@@ -1,6 +1,6 @@
 # Beginners python project for practice
 
-##INDEX
+## INDEX
 
 Click on 3 dots to check individual project
 
