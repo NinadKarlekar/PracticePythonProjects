@@ -70,4 +70,8 @@ After exicuting you will get to see an image saved in the directory you are work
 
   
 
+## Colored Text
+
+The Colorama module offers three main formatting options: Fore, Back, and Style. These allow us to change the foreground or background text color and style. The colors available for the foreground and background are black, red, green, yellow, blue, magenta, cyan, and white
+
 
