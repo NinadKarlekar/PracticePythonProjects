@@ -8,7 +8,7 @@ Click on 3 dots to check individual project
 
 
 
-***
+---
 
 ## Acronyms
 
@@ -17,7 +17,7 @@ Click on 3 dots to check individual project
 
 ![image](https://user-images.githubusercontent.com/88243315/132951009-16ccedc9-b8cc-41d2-8c97-d86063bc41b3.png)
 
-***
+<hr>
 
  ## BMI calculator
  
@@ -82,4 +82,7 @@ The Colorama module offers three main formatting options: Fore, Back, and Style.
 ![image](https://user-images.githubusercontent.com/88243315/132997027-8f7eb762-cbb9-4061-9a0a-6dcc7d69431f.png)
 
 ***
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8d6a264a868996ac18c02232328352cb38cd4eda
