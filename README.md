@@ -17,7 +17,7 @@ Click on 3 dots to check individual project
 
 ![image](https://user-images.githubusercontent.com/88243315/132951009-16ccedc9-b8cc-41d2-8c97-d86063bc41b3.png)
 
-
+***
 
  ## BMI calculator
  
@@ -26,6 +26,7 @@ Click on 3 dots to check individual project
 
 ![image](https://user-images.githubusercontent.com/88243315/132950451-6193bf32-cda5-4dab-8aa3-c376db57edf1.png)
 
+***
 
 ## Generate Password 
 
@@ -38,7 +39,7 @@ In the above code, I first imported the random module in Python, then I asked fo
 ![image](https://user-images.githubusercontent.com/88243315/132949112-cbe016ee-8701-451d-9b7c-e92e11115a35.png)
 
 
-
+***
 
 ## Number Game
 
@@ -48,7 +49,7 @@ In the above code, I first imported the random module in Python, then I asked fo
 ![image](https://user-images.githubusercontent.com/88243315/132951239-965ecc90-be5e-4bfe-b583-268049195eff.png)
 
 
-
+***
 
 ## QR Codes with Python
 
@@ -61,6 +62,7 @@ After exicuting you will get to see an image saved in the directory you are work
 
 ![image](https://user-images.githubusercontent.com/88243315/132949197-aeee9979-4e64-4c86-b178-0bf49783541d.png)
 
+***
 
 ## Rock Paper Scissors 
 
@@ -69,6 +71,7 @@ After exicuting you will get to see an image saved in the directory you are work
 ![image](https://user-images.githubusercontent.com/88243315/132951395-51c575d7-4ad0-471b-99ac-88740764286f.png)
 
   
+***
 
 ## Colored Text
 
@@ -78,3 +81,4 @@ The Colorama module offers three main formatting options: Fore, Back, and Style.
 
 ![image](https://user-images.githubusercontent.com/88243315/132997027-8f7eb762-cbb9-4061-9a0a-6dcc7d69431f.png)
 
+***
