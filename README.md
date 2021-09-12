@@ -82,3 +82,4 @@ The Colorama module offers three main formatting options: Fore, Back, and Style.
 ![image](https://user-images.githubusercontent.com/88243315/132997027-8f7eb762-cbb9-4061-9a0a-6dcc7d69431f.png)
 
 ***
+
