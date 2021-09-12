@@ -8,7 +8,7 @@ Click on 3 dots to check individual project
 
 
 
-***
+---
 
 ## Acronyms
 
@@ -17,7 +17,7 @@ Click on 3 dots to check individual project
 
 ![image](https://user-images.githubusercontent.com/88243315/132951009-16ccedc9-b8cc-41d2-8c97-d86063bc41b3.png)
 
-***
+<hr>
 
  ## BMI calculator
  
