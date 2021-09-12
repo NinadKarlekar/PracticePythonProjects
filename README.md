@@ -74,4 +74,7 @@ After exicuting you will get to see an image saved in the directory you are work
 
 The Colorama module offers three main formatting options: Fore, Back, and Style. These allow us to change the foreground or background text color and style. The colors available for the foreground and background are black, red, green, yellow, blue, magenta, cyan, and white
 
+![Colored text](https://user-images.githubusercontent.com/88243315/132997001-d1566e9e-6ea7-4d2f-a49a-4b41195b131f.png)
+
+![image](https://user-images.githubusercontent.com/88243315/132997027-8f7eb762-cbb9-4061-9a0a-6dcc7d69431f.png)
 
