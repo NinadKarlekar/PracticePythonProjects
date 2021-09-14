@@ -2,6 +2,14 @@
 
 ## INDEX
 
+1. [Acronyms](#Acronyms)
+2. [BMI calculator](#BMI calculator)
+3. [Generate Password](#Generate Password)
+
+
+
+
+
 Click on 3 dots to check individual project
 
 ![image](https://user-images.githubusercontent.com/88243315/132951547-a98f9c58-bef0-4200-a553-ce611bb5c70b.png)
@@ -82,7 +90,3 @@ The Colorama module offers three main formatting options: Fore, Back, and Style.
 ![image](https://user-images.githubusercontent.com/88243315/132997027-8f7eb762-cbb9-4061-9a0a-6dcc7d69431f.png)
 
 ***
-<<<<<<< HEAD
-
-=======
->>>>>>> 8d6a264a868996ac18c02232328352cb38cd4eda
