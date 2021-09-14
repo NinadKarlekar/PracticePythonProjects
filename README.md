@@ -58,10 +58,10 @@ In the above code, I first imported the random module in Python, then I asked fo
 
 ## QRCode
 
--cmd command
+cmd command
 
 ```
- pip install pyqrcode  
+pip install pyqrcode  
 ```
 After exicuting you will get to see an image saved in the directory you are working  
 
