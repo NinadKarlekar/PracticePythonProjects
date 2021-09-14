@@ -3,16 +3,12 @@
 ## INDEX
 
 1. [Acronyms](#Acronyms)
-2. [BMI calculator](#BMI)
-3. [Generate Password](#Generate Password)
-
-
-
-
-
-Click on 3 dots to check individual project
-
-![image](https://user-images.githubusercontent.com/88243315/132951547-a98f9c58-bef0-4200-a553-ce611bb5c70b.png)
+2. [BMI calculator](#BMICalculator)
+3. [Generate Password](#Generate_Password)
+4. [Number_Game](Number_Game)
+5. [QR_Code](QR_Code)
+6. [Rock_Paper_Scissors](Rock_Paper_Scissors)
+7. [Colored_Text](Colored_Text)
 
 
 
@@ -27,7 +23,7 @@ Click on 3 dots to check individual project
 
 <hr>
 
- ## BMI
+ ## BMICalculator
  
  ![BMI](https://user-images.githubusercontent.com/88243315/132950403-85ee61a2-b0a5-4809-8cf2-8b8f88a7c359.png)
 
@@ -36,7 +32,7 @@ Click on 3 dots to check individual project
 
 ***
 
-## Generate Password 
+## Generate_Password 
 
 Create a password, declare a string of numbers + uppercase + lowercase + special characters.
 
@@ -49,7 +45,7 @@ In the above code, I first imported the random module in Python, then I asked fo
 
 ***
 
-## Number Game
+## Number_Game
 
 ![NumberGame](https://user-images.githubusercontent.com/88243315/132951243-3f50fefe-d9a4-439c-b262-8953f547a401.png)
 
@@ -59,7 +55,7 @@ In the above code, I first imported the random module in Python, then I asked fo
 
 ***
 
-## QR Codes with Python
+## QR_Code
 
 -cmd command
 
@@ -72,7 +68,7 @@ After exicuting you will get to see an image saved in the directory you are work
 
 ***
 
-## Rock Paper Scissors 
+## Rock_Paper_Scissors 
 
 ![RockPaper](https://user-images.githubusercontent.com/88243315/132951373-b4c6308d-f7f6-42a3-b5d9-3bf45d960468.png)
 
@@ -81,7 +77,7 @@ After exicuting you will get to see an image saved in the directory you are work
   
 ***
 
-## Colored Text
+## Colored_Text
 
 The Colorama module offers three main formatting options: Fore, Back, and Style. These allow us to change the foreground or background text color and style. The colors available for the foreground and background are black, red, green, yellow, blue, magenta, cyan, and white
 
