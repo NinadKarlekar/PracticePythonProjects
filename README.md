@@ -4,11 +4,11 @@
 
 1. [Acronyms](#Acronyms)
 2. [BMI calculator](#BMICalculator)
-3. [Generate Password](#Generate_Password)
-4. [Number_Game](Number_Game)
-5. [QR_Code](QR_Code)
-6. [Rock_Paper_Scissors](Rock_Paper_Scissors)
-7. [Colored_Text](Colored_Text)
+3. [Generate Password](#GeneratePassword)
+4. [Number_Game](NumberGame)
+5. [QR_Code](QRCode)
+6. [Rock_Paper_Scissors](Rock_PaperScissors)
+7. [Colored_Text](ColoredText)
 
 
 
@@ -32,7 +32,7 @@
 
 ***
 
-## Generate_Password 
+## GeneratePassword 
 
 Create a password, declare a string of numbers + uppercase + lowercase + special characters.
 
@@ -45,7 +45,7 @@ In the above code, I first imported the random module in Python, then I asked fo
 
 ***
 
-## Number_Game
+## NumberGame
 
 ![NumberGame](https://user-images.githubusercontent.com/88243315/132951243-3f50fefe-d9a4-439c-b262-8953f547a401.png)
 
@@ -55,7 +55,7 @@ In the above code, I first imported the random module in Python, then I asked fo
 
 ***
 
-## QR_Code
+## QRCode
 
 -cmd command
 
@@ -68,7 +68,7 @@ After exicuting you will get to see an image saved in the directory you are work
 
 ***
 
-## Rock_Paper_Scissors 
+## RockPaperScissors 
 
 ![RockPaper](https://user-images.githubusercontent.com/88243315/132951373-b4c6308d-f7f6-42a3-b5d9-3bf45d960468.png)
 
@@ -77,7 +77,7 @@ After exicuting you will get to see an image saved in the directory you are work
   
 ***
 
-## Colored_Text
+## ColoredText
 
 The Colorama module offers three main formatting options: Fore, Back, and Style. These allow us to change the foreground or background text color and style. The colors available for the foreground and background are black, red, green, yellow, blue, magenta, cyan, and white
 
