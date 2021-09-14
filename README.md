@@ -7,8 +7,8 @@
 3. [Generate Password](#GeneratePassword)
 4. [Number_Game](#NumberGame)
 5. [QR_Code](#QRCode)
-6. [Rock_Paper_Scissors](#GeneratePassword)
-7. [Colored Text](ColoredText)
+6. [Rock_Paper_Scissors](#RockPaperScissors)
+7. [ColoredText](#ColoredText)
 
 
 
