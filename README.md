@@ -8,7 +8,7 @@
 4. [Number_Game](NumberGame)
 5. [QR_Code](QRCode)
 6. [Rock_Paper_Scissors](Rock_PaperScissors)
-7. [Colored_Text](ColoredText)
+7. [Colored Text](ColoredText)
 
 
 
