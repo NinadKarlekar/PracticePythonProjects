@@ -60,7 +60,9 @@ In the above code, I first imported the random module in Python, then I asked fo
 
 -cmd command
 
-" pip install pyqrcode "  
+```
+ pip install pyqrcode  
+```
 After exicuting you will get to see an image saved in the directory you are working  
 
 ![QRcode](https://user-images.githubusercontent.com/88243315/132949171-c256f6bb-ec8e-4101-bd9a-3461925d9641.png)
