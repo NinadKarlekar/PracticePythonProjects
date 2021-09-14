@@ -3,7 +3,7 @@
 ## INDEX
 
 1. [Acronyms](#Acronyms)
-2. [BMI calculator](#BMI calculator)
+2. [BMI calculator](#BMI)
 3. [Generate Password](#Generate Password)
 
 
