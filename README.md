@@ -27,7 +27,7 @@ Click on 3 dots to check individual project
 
 <hr>
 
- ## BMI calculator
+ ## BMI
  
  ![BMI](https://user-images.githubusercontent.com/88243315/132950403-85ee61a2-b0a5-4809-8cf2-8b8f88a7c359.png)
 
