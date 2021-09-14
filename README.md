@@ -5,10 +5,10 @@
 1. [Acronyms](#Acronyms)
 2. [BMI calculator](#BMICalculator)
 3. [Generate Password](#GeneratePassword)
-4. [Number_Game](NumberGame)
-5. [QR_Code](QRCode)
-6. [Rock_Paper_Scissors](Rock_PaperScissors)
-7. [Colored Text](ColoredText)
+4. [Number_Game](#NumberGame)
+5. [BMI calculator](#BMICalculator)
+6. [Generate Password](#GeneratePassword)
+
 
 
 
